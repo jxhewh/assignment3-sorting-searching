@@ -26,6 +26,6 @@ Binary Search is extremely fast even on large arrays because it eliminates half 
 The results matched the expected Big-O complexity
 
 Reflection
-This project showed that algorithm choice has a huge impact on real performance. Bubble Sort and Merge Sort produce correct results but Merge Sort is around 14 times faster on 1000 elements. This difference would grow even larger on bigger datasets. The main challenge was implementing the timing correctly so that only the algorithm itself was being measured between startTime and endTime
+This project showed that algorithm choice has a huge impact on real performance. Bubble Sort and Merge Sort produce correct results but Merge Sort is around 10times faster on 1000 elements. This difference would grow even larger on bigger datasets. The main challenge was implementing the timing correctly so that only the algorithm itself was being measured between startTime and endTime
 
 
